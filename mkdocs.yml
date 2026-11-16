@@ -102,6 +102,36 @@ nav:
         - PL12: make-the-kit/3d-designs/pl12/index.md
       - PCB Designs:
         - Button: make-the-kit/pcb-designs/button/index.md
+        - Crash Sensor: make-the-kit/pcb-designs/crash-sensor/index.md
+        - Potentiometer: make-the-kit/pcb-designs/potentiometer/index.md
+        - Ultrasonic Sensor: make-the-kit/pcb-designs/ultrasonic-sensor/index.md
+        - Line Follow Sensor: make-the-kit/pcb-designs/line-follow-sensor/index.md
+        - Light Sensor: make-the-kit/pcb-designs/light-sensor/index.md
+        - Joystick: make-the-kit/pcb-designs/joystick/index.md
+        - Force Sensor: make-the-kit/pcb-designs/force-sensor/index.md
+        - Bend Sensor: make-the-kit/pcb-designs/bend-sensor/index.md
+        - Break Beam Sensor: make-the-kit/pcb-designs/break-beam-sensor/index.md
+        - Colour Sensor: make-the-kit/pcb-designs/colour-sensor/index.md
+        - Motion Sensor: make-the-kit/pcb-designs/motion-sensor/index.md
+        - Weather Sensor: make-the-kit/pcb-designs/weather-sensor/index.md
+        - Keyboard: make-the-kit/pcb-designs/keyboard/index.md
+        - Soil Moisture Sensor: make-the-kit/pcb-designs/soil-moisture-sensor/index.md
+        - Contact Switch: make-the-kit/pcb-designs/contact-switch/index.md
+        - Rotary Encoder: make-the-kit/pcb-designs/rotary-encoder/index.md
+        - Tilt Switch: make-the-kit/pcb-designs/tilt-switch/index.md
+        - Hall Sensor: make-the-kit/pcb-designs/hall-sensor/index.md
+        - LED: make-the-kit/pcb-designs/led/index.md
+        - Numeric LED: make-the-kit/pcb-designs/numeric-led/index.md
+        - Alphanumeric LED: make-the-kit/pcb-designs/alphanumeric-led/index.md
+        - 16x2 LCD: make-the-kit/pcb-designs/16x2-lcd/index.md
+        - Neopixel Strip: make-the-kit/pcb-designs/neopixel-strip/index.md
+        - OLED Display: make-the-kit/pcb-designs/oled-display/index.md
+        - DC Motor: make-the-kit/pcb-designs/dc-motor/index.md
+        - Servo Motor: make-the-kit/pcb-designs/servo-motor/index.md
+        - Hobby Stepper Motor: make-the-kit/pcb-designs/hobby-stepper-motor/index.md
+        - Stepper Motor: make-the-kit/pcb-designs/stepper-motor/index.md
+        - DC Motor DRV8833: make-the-kit/pcb-designs/dc-motor-drv8833/index.md 
+
 #  - Blog:
 #    - blog/index.md
   - About: about.md  
